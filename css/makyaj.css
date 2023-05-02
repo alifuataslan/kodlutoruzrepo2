@@ -1,0 +1,30 @@
+.nav {
+    background-color:#BE5A83 ;
+    color: white;
+    padding: 2%;
+    text-align: end;
+    padding-right: 100px;
+}
+.nav a{
+    margin: 25px;
+    font-size: 165%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-decoration: dotted;
+    
+}
+.nav a:hover{
+    color: #B04759;
+}
+
+.ata{
+    border-radius: 30px;
+    margin: 30px;
+    height: 500px;
+}
+
+.hitabe{
+    color:#8BACAA ;
+    font-size: 30px;
+    text-decoration: double;
+}
