@@ -1,0 +1,48 @@
+.cont-center{
+    text-align: center;
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+}
+.logo{
+    margin-top: 100px;
+}
+.gray{
+    background-color: rgb(214, 214, 214);
+    margin: 0;
+}
+.float-left{
+     float: left;
+     width: 100%;
+     
+}
+.cont-center2{ 
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    
+
+}
+ .div1{
+    text-align: center;
+    background-color: aqua;
+    width: 40%;
+    height: 80px;
+    float: left;
+  
+      
+}
+.div2{
+    text-align: center;
+    background-color: rgb(124, 233, 233);
+    margin: 0;
+    width: 20%;
+    height: 80px;
+    float:left;
+}
+.div3{
+    background-color: rgb(77, 179, 179);
+    width: auto;
+    height: 80px;
+    text-align: center;
+}

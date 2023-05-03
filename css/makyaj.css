@@ -10,7 +10,7 @@
     font-size: 165%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
-    text-decoration: dotted;
+    text-decoration: none;
     
 }
 .nav a:hover{
@@ -26,5 +26,5 @@
 .hitabe{
     color:#8BACAA ;
     font-size: 30px;
-    text-decoration: double;
+    text-decoration: none;
 }
